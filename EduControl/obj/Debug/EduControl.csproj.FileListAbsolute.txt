@@ -38,3 +38,25 @@ C:\Users\jhonm\OneDrive\Escritorio\EduControl\EduControl\obj\Debug\EduControl.cs
 C:\Users\jhonm\OneDrive\Escritorio\EduControl\EduControl\obj\Debug\EduControl.csproj.CopyComplete
 C:\Users\jhonm\OneDrive\Escritorio\EduControl\EduControl\obj\Debug\EduControl.exe
 C:\Users\jhonm\OneDrive\Escritorio\EduControl\EduControl\obj\Debug\EduControl.pdb
+C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\bin\Debug\EduControl.exe.config
+C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\bin\Debug\EduControl.exe
+C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\bin\Debug\EduControl.pdb
+C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\bin\Debug\System.Memory.dll
+C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\bin\Debug\System.Buffers.dll
+C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\obj\Debug\EduControl.csproj.AssemblyReference.cache
+C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\obj\Debug\EduControl.Login.resources
+C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\obj\Debug\EduControl.Properties.Resources.resources
+C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\obj\Debug\EduControl.RegistroLogin.resources
+C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\obj\Debug\EduControl.csproj.GenerateResource.cache
+C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\obj\Debug\EduControl.csproj.CoreCompileInputs.cache
+C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\obj\Debug\EduControl.csproj.CopyComplete
+C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\obj\Debug\EduControl.exe
+C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\obj\Debug\EduControl.pdb
+C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\obj\Debug\EduControl.frmPrincipal.resources
+C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\obj\Debug\EduControl.Welcome.resources
+C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\bin\Debug\CircularProgressBar.dll
+C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\bin\Debug\WinFormAnimation.dll
+C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\bin\Debug\CircularProgressBar.xml

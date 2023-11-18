@@ -104,10 +104,12 @@ namespace EduControl
                 }
                 else
                 {
-                    //frmPrincipal frm = new frmPrincipal();
-                    //frm.Visible = true;
-                    //this.Visible = false;
-                    MessageBox.Show("se ha inicido sesion.");
+                    this.Visible = false;
+                    frmPrincipal frmPrincipal = new frmPrincipal();
+                    Welcome welcome = new Welcome();
+                    welcome.ShowDialog();
+                    frmPrincipal.ShowDialog();
+                    //frm.Visible = true;                  
                 }
             }
             catch (Exception ex)
