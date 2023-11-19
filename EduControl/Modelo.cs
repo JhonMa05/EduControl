@@ -22,6 +22,7 @@ namespace EduControl
 
             int resultado = comando.ExecuteNonQuery();
 
+            conexion.Close();
             return resultado;
 
             //
@@ -42,6 +43,7 @@ namespace EduControl
 
             int resul = comando.ExecuteNonQuery();
 
+            conexion.Close();
             return resul;
 
             //
@@ -89,6 +91,8 @@ namespace EduControl
                 usr.Password = reader["password"].ToString();
 
             }
+
+            conexion.Close();
             return usr;
         }
     }
