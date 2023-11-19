@@ -60,3 +60,6 @@ C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\E
 C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\bin\Debug\CircularProgressBar.dll
 C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\bin\Debug\WinFormAnimation.dll
 C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\bin\Debug\CircularProgressBar.xml
+C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\obj\Debug\EduControl.R_Estudiante.resources
+C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\obj\Debug\EduControl.R_Materia.resources
+C:\Users\jhonm\Documents\5 SEMESTRE UPC\PROGRAMACION III\EduControl\EduControl\EduControl\obj\Debug\EduControl.R_Notas.resources

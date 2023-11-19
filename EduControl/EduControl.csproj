@@ -76,6 +76,7 @@
   <ItemGroup>
     <Compile Include="Clases\Conexion.cs" />
     <Compile Include="Control.cs" />
+    <Compile Include="Estudiantes.cs" />
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -96,6 +97,24 @@
     </Compile>
     <Compile Include="RegistroLogin.Designer.cs">
       <DependentUpon>RegistroLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="R_Estudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="R_Estudiante.Designer.cs">
+      <DependentUpon>R_Estudiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="R_Materia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="R_Materia.Designer.cs">
+      <DependentUpon>R_Materia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="R_Notas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="R_Notas.Designer.cs">
+      <DependentUpon>R_Notas.cs</DependentUpon>
     </Compile>
     <Compile Include="Session.cs" />
     <Compile Include="Usuarios.cs" />
@@ -122,6 +141,15 @@
     </Compile>
     <EmbeddedResource Include="RegistroLogin.resx">
       <DependentUpon>RegistroLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="R_Estudiante.resx">
+      <DependentUpon>R_Estudiante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="R_Materia.resx">
+      <DependentUpon>R_Materia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="R_Notas.resx">
+      <DependentUpon>R_Notas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Welcome.resx">
       <DependentUpon>Welcome.cs</DependentUpon>

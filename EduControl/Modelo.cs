@@ -26,6 +26,26 @@ namespace EduControl
 
             //
         }
+        public int registroEstudiante(Estudiantes estudiante) 
+        {
+            MySqlConnection conexion = Conexion.conexion();
+            conexion.Open();
+
+            string sql = "INSERT INTO estudiantes (nombre, apellido, grupo, telefono, edad, correo) VALUES(@nombre, @apellido, @grupo, @telefono, @edad, @correo)";
+            MySqlCommand comando = new MySqlCommand(sql, conexion);
+            comando.Parameters.AddWithValue("@nombre", estudiante.Nombre);
+            comando.Parameters.AddWithValue("@apellido", estudiante.Apellido);
+            comando.Parameters.AddWithValue("@grupo", estudiante.Grupo);
+            comando.Parameters.AddWithValue("@telefono", estudiante.Telefono);
+            comando.Parameters.AddWithValue("@edad", estudiante.Edad);
+            comando.Parameters.AddWithValue("@correo", estudiante.Correo);
+
+            int resul = comando.ExecuteNonQuery();
+
+            return resul;
+
+            //
+        }
         public bool existeUsuario(string usuario)
         {
             MySqlDataReader reader;

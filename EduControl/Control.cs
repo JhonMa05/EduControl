@@ -39,6 +39,24 @@ namespace EduControl
             return respuesta;
 
         }
+
+        public string crtlResgtroEstudiante(Estudiantes estudiante)
+        {
+            Modelo modelo = new Modelo();
+            string respuesta = "";
+
+            if (string.IsNullOrEmpty(estudiante.Nombre) || string.IsNullOrEmpty(estudiante.Apellido) || string.IsNullOrEmpty(estudiante.Grupo) || string.IsNullOrEmpty(estudiante.Telefono) || string.IsNullOrEmpty(estudiante.Edad) || string.IsNullOrEmpty(estudiante.Correo))
+            {
+                respuesta = "Debe llenar todos los campos";
+            }
+            else
+            {
+                modelo.registroEstudiante(estudiante);
+
+            }
+            return respuesta;
+
+        }
         public string controLogin(string usuario, string password)
         {
             Modelo modelo = new Modelo();

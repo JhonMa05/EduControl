@@ -69,5 +69,31 @@ namespace EduControl
             ReleaseCapture();
             SendMessage(this.Handle, 0x112, 0xf012, 0);
         }
+        private void abrirFormInpanel(object formhijo)
+        {
+            if (this.panelContenedor.Controls.Count > 0)
+                this.panelContenedor.Controls.RemoveAt(0);
+            Form fh = formhijo as Form;
+            fh.TopLevel = false;
+            fh.Dock = DockStyle.Fill;
+            this.panelContenedor.Controls.Add(fh);
+            this.panelContenedor.Tag = fh;
+            fh.Show();
+
+        }
+        private void btnREstudiante_Click(object sender, EventArgs e)
+        {
+            abrirFormInpanel(new R_Estudiante());
+        }
+
+        private void btnRMateria_Click(object sender, EventArgs e)
+        {
+            abrirFormInpanel(new R_Materia());
+        }
+
+        private void btnRNotas_Click(object sender, EventArgs e)
+        {
+            abrirFormInpanel(new R_Notas());
+        }
     }
 }
